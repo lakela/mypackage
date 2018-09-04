@@ -1,0 +1,22 @@
+{
+  "name": "webutil",
+  "version": "1.0.0",
+  "description": "一个常用的web工具包",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lakela/mypackage.git"
+  },
+  "keywords": [
+    "webutil"
+  ],
+  "author": "binguosoft",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lakela/mypackage/issues"
+  },
+  "homepage": "https://github.com/lakela/mypackage#readme"
+}
